@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @RandomRogue
+- 👀 I’m interested in Physics and mathmatics
+- 🌱 I’m currently learning xfac (and everyday I do, I get more tempted to learn C++)
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: Everyday I use python, my will to live...
